@@ -14,6 +14,9 @@
     margin: 10px;
     cursor: pointer;
 }
+.icon:hover{
+    background: #A26034;
+}
 .icon a{
     font-size: 25px;
     color: green;
@@ -109,4 +112,79 @@
 .banner-church{
     background-image: linear-gradient(rgba(0,0,0,0.015), rgba(0,0,0,0.01)), 
     url(../images/manager.jpg);
+}
+
+/* Home comming day Pages */
+
+.activity-1{
+    background-image: linear-gradient(rgba(0.9,0,0,0), rgba(0,0,0,0.1)), 
+    url(../images/h-c-d-2019-4.jp.jpg);
+}
+.activity-2{
+    background-image: linear-gradient(rgba(0.9,0,0,0), rgba(0,0,0,0.1)), 
+    url(../images/h-c-d-2019-2.jpg);
+}
+.activity-3{
+    background-image: linear-gradient(rgba(0.9,0,0,0), rgba(0,0,0,0.1)), 
+    url(../images/h-c-d-2019-5.jp.jpg);
+}
+.activity-4{
+    background-image: linear-gradient(rgba(0.9,0,0,0), rgba(0,0,0,0.1)), 
+    url(../images/h-c-game.jpg);
+}
+.activity-5{
+    background-image: linear-gradient(rgba(0.9,0,0,0), rgba(0,0,0,0.1)), 
+    url(../images/home1-experience.jpg);
+}
+.dinner-1{
+    background-image: linear-gradient(rgba(0.9,0,0,0), rgba(0,0,0,0.1)), 
+    url(../images/h-c-d-2018-2.jp.jpg);
+}
+.dinner-2{
+    background-image: linear-gradient(rgba(0.9,0,0,0), rgba(0,0,0,0.1)), 
+    url(../images/h-c-d-2019-3.jp.jpg);
+}
+
+
+/* Trip  */
+.banner-trip{
+    background-image: linear-gradient(rgba(0.1,0,0,0), rgba(0,0,0,0.5)), 
+    url(../images/p-t-tri2.jpg);
+}
+
+.trip-1{
+    background-image: linear-gradient(rgba(0.1,0,0,0), rgba(0,0,0,0.5)), 
+    url(../images/s-4-trip-Angkor.jpg);
+}
+.trip-2{
+    background-image: linear-gradient(rgba(0.1,0,0,0), rgba(0,0,0,0.5)), 
+    url(../images/p-t-tri4.jpg);
+}
+.trip-3{
+    background-image: linear-gradient(rgba(0.1,0,0,0), rgba(0,0,0,0.5)), 
+    url(../images/p-t-trip.jpg);
+}
+.trip-4{
+    background-image: linear-gradient(rgba(0.1,0,0,0), rgba(0,0,0,0.5)), 
+    url(../images/p-t-trip1.jpg);
+}
+.trip-5{
+    background-image: linear-gradient(rgba(0.1,0,0,0), rgba(0,0,0,0.5)), 
+    url(../images/p-t-tri3.jpg);
+}
+.trip-6{
+    background-image: linear-gradient(rgba(0.1,0,0,0), rgba(0,0,0,0.5)), 
+    url(../images/p-t-trip-lunch.jpg);
+}
+.trip-7{
+    background-image: linear-gradient(rgba(0.1,0,0,0), rgba(0,0,0,0.5)), 
+    url(../images/day-in-sr.jpg);
+}
+.korean-t-1{
+    background-image: linear-gradient(rgba(0.1,0,0,0), rgba(0,0,0,0.5)), 
+    url(../images/kr-team-2.jpg);
+}
+.korean-t-2{
+    background-image: linear-gradient(rgba(0.1,0,0,0), rgba(0,0,0,0.5)), 
+    url(../images/kr-team-3.jpg);
 }
